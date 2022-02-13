@@ -1,0 +1,123 @@
+{"pizzas":[
+    {
+        "id":1,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/1453914e11424062b09885ccddc9a517_584x584.jpeg",
+        "name": "2 половинки",
+        "types":[0],
+        "sizes":[26],
+        "price": "от 400с",
+        "category": 0,
+        "raiting":4
+    },
+    {
+        "id":2,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/f351d4358f134c31b5bed9093faf38e3_584x584.jpeg",
+        "name": "Пепперони",
+        "types":[0,1],
+        "sizes":[26,30,40],
+        "price": "от 320с",
+        "category": 0,
+        "raiting":6
+    },
+    {
+        "id":3,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/525becd5f6d845ea9f83af0af7e44eea_584x584.jpeg",
+        "name": "Песто",
+        "types":[0],
+        "sizes":[26,30,40],
+        "price": "от 640с",
+        "category": 0,
+        "raiting":2
+    }
+    , {
+        "id":4,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/3fe12c4bb05c470c9cb45fb423b7c049_584x584.jpeg",
+        "name": "Ветчина и сыр",
+        "types":[0,1],
+        "sizes":[26,30,40],
+        "price": "от 390с",
+        "category": 0,
+        "raiting":1
+    }
+    , {
+        "id":5,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/c80217179bae4c1fb5b93571f1bd0e6d_584x584.jpeg",
+        "name": "Чизбургер пицца",
+        "types":[0],
+        "sizes":[26,30,40],
+        "price": "от 270с",
+        "category": 0,
+        "raiting":3
+    }
+    , {
+        "id":6,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/ebbfdf6f8fa74935af77b784a1ff2e1d_584x584.jpeg",
+        "name": "Аррива!",
+        "types":[0],
+        "sizes":[26,30,40],
+        "price": "от 680с",
+        "category": 0,
+        "raiting":9
+    }
+    , {
+        "id":7,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/2689742f19fb43cf810dc802aaeaa801_584x584.jpeg",
+        "name": "Двойная пепперони",
+        "types":[0,1],
+        "sizes":[26,30,40],
+        "price": "от 780с",
+        "category": 0,
+        "raiting":8
+    }
+    , {
+        "id":8,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/6a799a1a05a1428cb3b63edfa8cb0aeb_584x584.jpeg",
+        "name": "Мексиканская 🌶️🌶️",
+        "types":[0],
+        "sizes":[26,30,40],
+        "price": "от 980с",
+        "category": 0,
+        "raiting":6
+    }
+    , {
+        "id":9,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/02dc29c27c294172839bcee0f06cb4db_584x584.jpeg",
+        "name": "Четыре сыра 🌱",
+        "types":[0],
+        "sizes":[26,30,40],
+        "price": "от 300с",
+        "category": 0,
+        "raiting":5
+    }
+    , {
+        "id":10,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/0e04bd539f48486792cb0140c33927de_584x584.jpeg",
+        "name": "Супермясная",
+        "types":[0,1],
+        "sizes":[26,30,40],
+        "price": "от 310с",
+        "category": 0,
+        "raiting":10
+    },
+    {
+        "id":11,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/55bb6827772249a1a241fb12cd845160_584x584.jpeg",
+        "name": "Пирог-сердце",
+        "types":[0,1],
+        "sizes":[26,30,40],
+        "price": "от 490с",
+        "category": 0,
+        "raiting":11
+    },
+    {
+        "id":12,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/fd6e13d02cb84ebbb004dccdec9efa1c_584x584.jpeg",
+        "name": "Пицца-пирог 🌱",
+        "types":[0],
+        "sizes":[26,30,40],
+        "price": "от 890с",
+        "category": 0,
+        "raiting":12
+    }
+]
+}
